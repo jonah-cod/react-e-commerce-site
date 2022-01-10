@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-e-commerce-site/static/css/main.81ad2181.chunk.css",
+    "main.js": "/react-e-commerce-site/static/js/main.53d23f86.chunk.js",
+    "main.js.map": "/react-e-commerce-site/static/js/main.53d23f86.chunk.js.map",
+    "runtime-main.js": "/react-e-commerce-site/static/js/runtime-main.41a935b9.js",
+    "runtime-main.js.map": "/react-e-commerce-site/static/js/runtime-main.41a935b9.js.map",
+    "static/js/2.4aeb6922.chunk.js": "/react-e-commerce-site/static/js/2.4aeb6922.chunk.js",
+    "static/js/2.4aeb6922.chunk.js.map": "/react-e-commerce-site/static/js/2.4aeb6922.chunk.js.map",
+    "index.html": "/react-e-commerce-site/index.html",
+    "static/css/main.81ad2181.chunk.css.map": "/react-e-commerce-site/static/css/main.81ad2181.chunk.css.map",
+    "static/js/2.4aeb6922.chunk.js.LICENSE.txt": "/react-e-commerce-site/static/js/2.4aeb6922.chunk.js.LICENSE.txt",
+    "static/media/pearlmotors-removebg-preview.3c6c321a.png": "/react-e-commerce-site/static/media/pearlmotors-removebg-preview.3c6c321a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41a935b9.js",
+    "static/js/2.4aeb6922.chunk.js",
+    "static/css/main.81ad2181.chunk.css",
+    "static/js/main.53d23f86.chunk.js"
+  ]
+}
