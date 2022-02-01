@@ -168,7 +168,8 @@ body {
     margin: 5px 10px;
 }
 
-.car:hover {
+.car:hover,
+.car:focus{
     transform: scale(1.05);
     box-shadow: 2px 1px 5px 1px #3A3335;
 }
